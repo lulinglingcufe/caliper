@@ -1,6 +1,6 @@
 {
   "name": "caliper-tests-integration",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Integration tests for Hyperledger Caliper",
   "scripts": {
     "cleanup": "./scripts/cleanup.sh",
